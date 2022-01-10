@@ -229,7 +229,7 @@ function showResults(count) {
 
         } else {
 
-            theResults = `<span class='bad'>Perfect</span>, ${rightAnswers} From ${count}`;
+            theResults = `<span class='bad'>Bad</span>, ${rightAnswers} From ${count}`;
 
         }
 
